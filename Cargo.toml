@@ -1,0 +1,6 @@
+[package]
+name = "mnmdnmd"
+version = "0.1.0"
+authors = ["Mikhail Katychev <mkatychev@apple.com>"]
+
+[dependencies]
