@@ -6,6 +6,7 @@ pub fn mean(list: &[i32]) -> i32 {
     for num in lister {
         total += num;
     }
+    // imperfect mean
     total / (list.len() as i32)
 }
 
